@@ -1,3 +1,5 @@
+## This application is now deprecated. 
+
 # Student Portal API
 
 REST API for Student Portal, where ballet students can purchase classes and view a history of their purchases, built with React. 
